@@ -35,4 +35,6 @@ echo"<br>**********THANK YOU***********";
 $obj=new employee("Sam","Assistant professor",20000);
 $obj->netsalcalculate();
 $obj->show();
+echo"<br>**********THANK YOU***********";
 ?>
+
